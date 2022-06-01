@@ -1,0 +1,13 @@
+{
+  "build": {
+    "preview": {
+      "ios": {
+        "simulator": true
+      }
+    },
+    "production": {}
+  },
+  "cli": {
+    "version": ">= 0.46.0"
+  }
+}
